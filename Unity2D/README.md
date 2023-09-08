@@ -13,3 +13,8 @@ https://book.mynavi.jp/supportsite/detail/9784839966768.html
 | 内容                           | スクリプト名                            |参考|
 |------------------------------|-----------------------------------|---|
 | キーを押すと、移動する（重力対応版）のゲームパッド対応版 | OnKeyPress_MoveGravityWithGamepad | [ゲームパッドでUnityのゲームを動かそう](https://unity-beginners-blog.unity3d.jp/2017/07/04/gamepad/)|
+
+## Unity Playground
+
+- [Unity Playgroundリファレンスガイド日本語訳](https://docs.google.com/document/d/1xiWggQ5sdn8NRQxH-oiv3bR9rRJxgTmMioG5wEl74ls/edit?pli=1#heading=h.5x0d5h95i329)
+- [Unity Playground でゲーム作りをはじめよう](https://blog.unity.com/ja/community/get-started-making-games-with-unity-playground)
